@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="source/PomodoroHRApp.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="12" pc="268435490" symbol="initialize"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="16" pc="268435509" symbol="onStart"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="20" pc="268435514" symbol="onStop"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="24" pc="268435519" symbol="getInitialView"/>
+<entry filename="source/PomodoroHRApp.mc" lineNum="25" pc="268435523" symbol="getInitialView"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="11" pc="268435607" symbol="initialize"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="12" pc="268435611" symbol="initialize"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="13" pc="268435621" symbol="initialize"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="18" pc="268435640" symbol="onMenu"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="19" pc="268435644" symbol="onMenu"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="20" pc="268435736" symbol="onMenu"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="24" pc="268435740" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="26" pc="268435744" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="29" pc="268435771" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="31" pc="268435791" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="33" pc="268435810" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="35" pc="268435816" symbol="onKey"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="39" pc="268435820" symbol="onTap"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="42" pc="268435824" symbol="onTap"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="44" pc="268435844" symbol="onTap"/>
+<entry filename="source/PomodoroHRDelegate.mc" lineNum="46" pc="268435863" symbol="onTap"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="21" pc="268435867" symbol="initialize"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="22" pc="268435871" symbol="initialize"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="23" pc="268435887" symbol="initialize"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="28" pc="268435922" symbol="setView"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="29" pc="268435926" symbol="setView"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="33" pc="268435937" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="34" pc="268435941" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="35" pc="268435961" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="38" pc="268435990" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="41" pc="268436019" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="43" pc="268436028" symbol="stateLabel"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="47" pc="268436035" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="48" pc="268436039" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="49" pc="268436059" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="52" pc="268436097" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="55" pc="268436135" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="57" pc="268436153" symbol="stateColor"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="61" pc="268436169" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="63" pc="268436173" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="64" pc="268436216" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="67" pc="268436221" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="69" pc="268436221" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="70" pc="268436232" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="74" pc="268436242" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="79" pc="268436277" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="80" pc="268436307" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="81" pc="268436341" symbol="duration"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="84" pc="268436356" symbol="getState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="85" pc="268436360" symbol="getState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="88" pc="268436370" symbol="setState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="89" pc="268436374" symbol="setState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="90" pc="268436388" symbol="setState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="93" pc="268436399" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="94" pc="268436403" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="95" pc="268436411" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="96" pc="268436425" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="99" pc="268436538" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="102" pc="268436651" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="105" pc="268436794" symbol="vibrateOnState"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="108" pc="268436813" symbol="startTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="109" pc="268436817" symbol="startTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="110" pc="268436830" symbol="startTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="112" pc="268436874" symbol="startTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="115" pc="268436898" symbol="stopTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="116" pc="268436902" symbol="stopTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="117" pc="268436920" symbol="stopTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="121" pc="268436930" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="123" pc="268436934" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="125" pc="268436947" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="126" pc="268436954" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="130" pc="268436958" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="132" pc="268436978" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="133" pc="268436998" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="134" pc="268437018" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="137" pc="268437033" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="138" pc="268437053" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="141" pc="268437068" symbol="onTimer"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="147" pc="268437087" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="148" pc="268437091" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="149" pc="268437111" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="150" pc="268437131" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="151" pc="268437143" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="155" pc="268437169" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="156" pc="268437189" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="157" pc="268437201" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="160" pc="268437207" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="161" pc="268437227" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="164" pc="268437239" symbol="startPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="167" pc="268437243" symbol="cancelPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="168" pc="268437247" symbol="cancelPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="169" pc="268437267" symbol="cancelPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="170" pc="268437287" symbol="cancelPressed"/>
+<entry filename="source/PomodoroHRLogic.mc" lineNum="172" pc="268437302" symbol="cancelPressed"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="10" pc="268437306" symbol="initialize"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="11" pc="268437310" symbol="initialize"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="12" pc="268437320" symbol="initialize"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="16" pc="268437339" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="17" pc="268437343" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="19" pc="268437354" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="20" pc="268437386" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="23" pc="268437418" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRMenuDelegate.mc" lineNum="24" pc="268437450" symbol="onMenuItem"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="19" pc="268437472" symbol="initialize"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="20" pc="268437476" symbol="initialize"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="21" pc="268437486" symbol="initialize"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="22" pc="268437506" symbol="initialize"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="27" pc="268437525" symbol="onLayout"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="28" pc="268437529" symbol="onLayout"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="29" pc="268437566" symbol="onLayout"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="30" pc="268437596" symbol="onLayout"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="31" pc="268437626" symbol="onLayout"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="37" pc="268437657" symbol="onShow"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="38" pc="268437661" symbol="onShow"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="42" pc="268437678" symbol="onUpdate"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="43" pc="268437682" symbol="onUpdate"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="44" pc="268437694" symbol="onUpdate"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="45" pc="268437740" symbol="onUpdate"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="47" pc="268437769" symbol="onUpdate"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="57" pc="268437790" symbol="setStateLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="58" pc="268437794" symbol="setStateLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="61" pc="268437815" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="62" pc="268437819" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="63" pc="268437826" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="66" pc="268437852" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="67" pc="268437865" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="69" pc="268437955" symbol="setTimerLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="73" pc="268437991" symbol="getClockLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="74" pc="268437995" symbol="getClockLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="75" pc="268438012" symbol="getClockLabel"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="78" pc="268438103" symbol="update"/>
+<entry filename="source/PomodoroHRView.mc" lineNum="79" pc="268438107" symbol="update"/>
+<entry filename="Rez" lineNum="15" pc="268438124" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268438128" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268438146" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268438198" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268438251" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268438255" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268438416" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268438441" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268438493" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268438654" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268438679" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268438731" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268438892" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268438917" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268438969" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="38" symbol="STATE_REST"/>
+<entry field="true" id="8389793" symbol="debug"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="35" symbol="started"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="47" method="true" symbol="cancelPressed"/>
+<entry id="41" method="true" symbol="stateColor"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="27" object="true" symbol="MainMenu"/>
+<entry field="true" id="17" symbol="clock_label"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="15" symbol="action_string"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="21" method="true" symbol="setTimerLabel"/>
+<entry id="11" object="true" symbol="PomodoroHRLogic"/>
+<entry id="28" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="22" method="true" symbol="getClockLabel"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388636" symbol="Attention"/>
+<entry field="true" id="34" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry field="true" id="18" symbol="timer_label"/>
+<entry id="8388935" method="true" symbol="duration"/>
+<entry field="true" id="33" symbol="view"/>
+<entry id="39" method="true" symbol="setView"/>
+<entry id="8389902" method="true" symbol="getState"/>
+<entry id="42" method="true" symbol="vibrateOnState"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="10" object="true" symbol="PomodoroHRDelegate"/>
+<entry id="49" symbol="item_2"/>
+<entry id="48" symbol="item_1"/>
+<entry field="true" id="37" symbol="STATE_WORKING"/>
+<entry field="true" id="26" symbol="LauncherIcon"/>
+<entry id="8388646" symbol="Timer"/>
+<entry field="true" id="30" symbol="menu_label_2"/>
+<entry field="true" id="29" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="23" method="true" symbol="update"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="43" method="true" symbol="startTimer"/>
+<entry field="true" id="14" symbol="timer_string"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="46" method="true" symbol="startPressed"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="19" symbol="state_label"/>
+<entry id="9" object="true" symbol="PomodoroHRApp"/>
+<entry id="44" method="true" symbol="stopTimer"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="40" method="true" symbol="stateLabel"/>
+<entry id="8389903" method="true" symbol="setState"/>
+<entry field="true" id="36" symbol="STATE_IDLE"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="25" module="true" symbol="Layouts"/>
+<entry field="true" id="31" symbol="prompt"/>
+<entry field="true" id="8" symbol="logic"/>
+<entry id="12" object="true" symbol="PomodoroHRMenuDelegate"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="24" module="true" symbol="Menus"/>
+<entry id="16" object="true" symbol="PomodoroHRView"/>
+<entry field="true" id="13" symbol="clock_string"/>
+<entry id="45" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="20" method="true" symbol="setStateLabel"/>
+<entry field="true" id="8389487" symbol="state"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436355" name="rest" stackId="3" startPc="268436173"/>
+<entry endPc="268436355" name="duration" stackId="2" startPc="268436173"/>
+<entry endPc="268436355" name="seconds" stackId="1" startPc="268436173"/>
+<entry endPc="268436812" name="vibes" stackId="2" startPc="268436403"/>
+<entry endPc="268437086" name="left" stackId="1" startPc="268436934"/>
+<entry endPc="268437955" name="val" stackId="3" startPc="268437852"/>
+<entry endPc="268438102" name="clockTime" stackId="1" startPc="268437995"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_timerLabel_fontHeight" stackId="5" startPc="268438255"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_clockLabel" stackId="2" startPc="268438255"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_stateLabel_fontHeight" stackId="7" startPc="268438255"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_stateLabel" stackId="6" startPc="268438255"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_timerLabel" stackId="4" startPc="268438255"/>
+<entry endPc="268439006" name="rez_cmp_local_bitmap_clockLabel_fontHeight" stackId="3" startPc="268438255"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="PomodoroHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="PomodoroHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="PomodoroHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="PomodoroHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PomodoroHRDelegate">
+<param id="_logic"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="PomodoroHRDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="PomodoroHRDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="PomodoroHRDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="setView" parent="PomodoroHRLogic">
+<param id="_view"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="stateLabel" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="stateColor" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="duration" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="getState" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="setState" parent="PomodoroHRLogic">
+<param id="new_state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="vibrateOnState" parent="PomodoroHRLogic">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startTimer" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="stopTimer" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimer" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="startPressed" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="cancelPressed" parent="PomodoroHRLogic">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PomodoroHRMenuDelegate">
+<param id="_logic"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="PomodoroHRMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PomodoroHRView">
+<param id="_logic"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="PomodoroHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="PomodoroHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="PomodoroHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setStateLabel" parent="PomodoroHRView">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setTimerLabel" parent="PomodoroHRView">
+<param id="duration"/>
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getClockLabel" parent="PomodoroHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="PomodoroHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

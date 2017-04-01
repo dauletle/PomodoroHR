@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">PomodoroHR</string>
+
+    <string id="prompt">Tap to Begin</string>
+
+    <string id="menu_label_1">Take Break</string>
+    <string id="menu_label_2">Start Again</string>
+</strings>

@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+    <label text="00:00" id="clockLabel" x="center" y="10" font="Gfx.FONT_TINY" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="25:00" id="timerLabel" x="center" y="40" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="Paused" id="stateLabel" x="center" y="110" font="Gfx.FONT_TINY" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+</layout>
